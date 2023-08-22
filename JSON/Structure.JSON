@@ -1,0 +1,21 @@
+{
+  "user": {
+    "first_name": "Иван",
+    "last_name": "Иванов",
+    "middle_name": "Иванович",
+    "age": 30,
+    "is_married": true,
+    "has_kids": false,
+    "emails": ["ivanov.ii@mail.ru", "ivan@yandex.com"],
+    "phone": [],
+    "favorite_numbers": [0, 69],
+    "pets": [{"type": "dog", "name": "Персик"}, {"type": "cat", "name": "Гав"}],
+    "comments": null
+  },
+  "last_order": {
+    "article": [15789, 70090],
+    "need_delivery": false,
+    "shop_address": "default",
+    "comment": "Reserve until 2023-08-22"
+  }
+}
